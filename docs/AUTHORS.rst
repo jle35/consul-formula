@@ -79,9 +79,6 @@ This list is sorted by the number of commits per contributor in *descending* ord
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/49001436?v=4' width='36' height='36' alt='@teeuwes'>`
      - `@teeuwes <https://github.com/teeuwes>`_
      - 1
-   * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars3.githubusercontent.com/u/58283299?v=4' width='36' height='36' alt='@jle35'>`
-     - `@jle35 <https://github.com/jle35>`_
-     - 1
    * - :raw-html-m2r:`<img class='float-left rounded-1' src='https://avatars1.githubusercontent.com/u/528061?v=4' width='36' height='36' alt='@puneetk'>`
      - `@puneetk <https://github.com/puneetk>`_
      - 1
